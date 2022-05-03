@@ -1,0 +1,7 @@
+#Tue May 03 17:13:25 CST 2022
+base.0=E\:\\androidProject\\3.4.7\\Android-SDK@3.4.7.81308_20220424\\Android-SDK@3.4.7.81308_20220424\\UniPlugin-Hello-AS\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\androidProject\\3.4.7\\Android-SDK@3.4.7.81308_20220424\\Android-SDK@3.4.7.81308_20220424\\UniPlugin-Hello-AS\\app\\build\\intermediates\\dex\\debug\\minifyDebugWithR8\\classes2.dex
